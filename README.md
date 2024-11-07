@@ -28,6 +28,9 @@ The following features are currently implemented.
 - Passwords
     - TOTP
     - HOTP
+- Set PIN
+    - FIDO2
+    - Passwords
 
 ## Download
 
